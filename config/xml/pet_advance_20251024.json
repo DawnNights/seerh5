@@ -1,0 +1,905 @@
+{
+    "_declaration": {
+        "version": 1,
+        "encoding": "UTF-8"
+    },
+    "root": {
+        "Task": [
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "165 70 106 132 103 129",
+                        "NewRace": "173 70 110 145 110 132"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2747,
+                        "NewSeId": 5937
+                    },
+                    "spMove": {
+                        "SpMoves": "36200 28118 36201"
+                    },
+                    "exMove": {},
+                    "AdvEffect": {
+                        "Id": 1646,
+                        "Des": "自身每次使用攻击技能后都会获得1支<font color='#FF7751'>灭神之箭</font>；回合开始时若自身体力高于对手则当回合所有技能先制+1且直至下回合开始时免疫所有异常状态（下场后保留），回合结束时若自身体力低于对手则吸取对手最大体力的1/3（<font color='#FF7751'>灭神之箭</font>下场后保留，最多可获得5支，boss无效）\n<font color='#FF7751'>灭神之箭</font>：使用攻击技能会忽略对手双防值的8%，且造成伤害前附加40点固定伤害"
+                    },
+                    "MonsterId": 3514
+                },
+                "Exchange": {
+                    "ItemID": "1724856_1724857_1724858",
+                    "ProductID": "259804_259805_259806"
+                },
+                "QianDuan": {},
+                "ID": 1,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20220909 神谕进阶-弑神猎皇",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "169 134 110 70 113 129",
+                        "NewRace": "169 140 113 70 113 135"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2968,
+                        "NewSeId": 5956
+                    },
+                    "spMove": {
+                        "SpMoves": "36291 28161"
+                    },
+                    "exMove": {},
+                    "AdvEffect": {
+                        "Id": 1666,
+                        "Des": "回合结束时若对手不处于能力提升状态则吸取对手最大体力的1/3且下回合自身造成的攻击伤害提升50%，<font color='#FF7751'>若对手免疫百分比伤害则增伤效果提升至100%</font>；\n回合结束时若对手处于能力提升状态则<font color='#FF7751'>100%令对手害怕</font>，若害怕未触发则恢复自身最大体力的1/3并<font color='#FF7751'>造成等量百分比伤害</font>（boss无效）"
+                    },
+                    "MonsterId": 3704
+                },
+                "Exchange": {
+                    "ItemID": "1724940_1724941_1724942",
+                    "ProductID": "259875_259876_259877"
+                },
+                "QianDuan": {},
+                "ID": 2,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20221216 神谕进阶-狂热之诚·吉罗德",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "155 132 108 70 107 128",
+                        "NewRace": "175 145 111 70 111 138"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2742,
+                        "NewSeId": 5972
+                    },
+                    "spMove": {
+                        "SpMoves": "36404 28217 36405"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 36406
+                    },
+                    "AdvEffect": {
+                        "Id": 1685,
+                        "Des": "自身受到的攻击伤害若高于300则100%令对手冰封，自身造成的攻击伤害若高于300则下次使用技能<font color='#FF7751'>先制+3</font>；\n回合开始时若自身体力高于对手则当回合造成的攻击伤害提升100%且<font color='#FF7751'>使用技能无视对手能力提升状态</font>，若自身体力低于对手则当回合受到的攻击伤害减少50%且使用技能后吸取对手最大体力的1/3\n（boss无效）"
+                    },
+                    "MonsterId": 3506
+                },
+                "Exchange": {
+                    "ItemID": "1725056_1725057_1725058",
+                    "ProductID": "259976_259977_259978"
+                },
+                "QianDuan": {},
+                "ID": 3,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20230203 神谕进阶-惊涛海皇·波塞冬",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "149 130 106 70 104 126",
+                        "NewRace": "169 140 110 70 110 136"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2610,
+                        "NewSeId": 5988
+                    },
+                    "spMove": {
+                        "SpMoves": 28253
+                    },
+                    "exMove": {
+                        "ExtraMoves": 36483
+                    },
+                    "AdvEffect": {
+                        "Id": 1697,
+                        "Des": "自身使用攻击技能后，若造成的攻击伤害低于300则附加对手<font color='#FF7751'>最大体力</font>1/3的百分比伤害；\n回合开始时若对手处于异常状态则当回合自身造成的攻击伤害提升100%，若对手不处于异常状态则当回合自身<font color='#FF7751'>使用技能后</font>35%令对手害怕，<font color='#FF7751'>未触发则下回合自身攻击技能先制+1</font>\n（boss无效）"
+                    },
+                    "MonsterId": 3388
+                },
+                "Exchange": {
+                    "ItemID": "1725132_1725133_1725134",
+                    "ProductID": "260037_260038_260039"
+                },
+                "QianDuan": {},
+                "ID": 4,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20230317 神谕进阶-昔兰尼加",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "165 70 108 134 108 130",
+                        "NewRace": "170 70 113 144 113 135"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2915,
+                        "NewSeId": 6000
+                    },
+                    "spMove": {
+                        "SpMoves": "36535 28278 36536"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 36537
+                    },
+                    "AdvEffect": {
+                        "Id": 1710,
+                        "Des": "在圣光天马的祝福下，黄金天马的潜能得到了极限激发，每回合结束后若对手任意一项能力等级高于回合开始时则召唤持续1回合的圣辉之羽庇护自身，<font color='#FF7751'>每回合结束后若对手所有能力等级均未高于回合开始时则召唤持续1回合的圣雷华冠强化自身；\n回合开始时若自身不处于能力提升状态则100%令自身全属性+1且当回合使用攻击技能后附加对手最大体力1/3的百分比伤害，若自身处于能力提升状态则100%令对手全属性-1且当回合自身攻击技能必定打出致命一击</font>\n（boss无效）\n圣辉之羽：圣耀之光·黄金天马持有时免疫受到的异常状态和能力下降状态且将受到的攻击伤害转化为自身体力，下场不保留\n<font color='#FF7751'>圣雷华冠：圣耀之光·黄金天马持有时攻击技能先制+1且命中前若对手处于异常状态则造成的伤害提升50%，下场不保留</font>"
+                    },
+                    "MonsterId": 3670
+                },
+                "Exchange": {
+                    "ItemID": "1725210_1725211_1725212",
+                    "ProductID": "260106_260107_260108"
+                },
+                "QianDuan": {},
+                "ID": 5,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20230421 神谕进阶-圣耀之光·黄金天马",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "150 131 109 70 108 127",
+                        "NewRace": "170 141 112 70 112 135"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2743,
+                        "NewSeId": 6010
+                    },
+                    "spMove": {
+                        "SpMoves": "36573 36574"
+                    },
+                    "exMove": {},
+                    "AdvEffect": {
+                        "Id": 1718,
+                        "Des": "回合开始时若对手不处于冰封状态，则当回合自身所有技能先制+1；\n自身<font color='#FF7751'>使用技能造成伤害前</font>50%令对手冰封，未触发则消除对手回合类效果，之后若对手处于冰封状态且本次技能为攻击技能则附加对手最大体力1/3的百分比伤害，<font color='#FF7751'>若对手不处于冰封状态且本次技能为攻击技能则吸取对手最大体力的1/3</font>\n（boss无效）"
+                    },
+                    "MonsterId": 3507
+                },
+                "Exchange": {
+                    "ItemID": "1725247_1725248_1725249",
+                    "ProductID": "260140_260141_260142"
+                },
+                "QianDuan": {},
+                "ID": 6,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20230519 神谕进阶-冥王·苍月影",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "170 70 107 136 104 133",
+                        "NewRace": "170 70 112 136 112 135"
+                    },
+                    "NewSe": {
+                        "OldSeId": 3337,
+                        "NewSeId": 6022
+                    },
+                    "spMove": {
+                        "SpMoves": "28341 36669"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 36670
+                    },
+                    "AdvEffect": {
+                        "Id": 1730,
+                        "Des": "回合开始时若对手处于能力提升状态则消除对手能力提升状态，消除成功则100%令对手烧伤，<font color='#FF7751'>未触发则消除对手回合类效果</font>；\n回合开始时若对手不处于能力提升状态则当回合自身攻击技能100%打出致命一击；\n回合结束时若双方任意一方处于异常状态则100%降低对手所有技能2点PP值且<font color='#FF7751'>恢复自身300点体力</font>\n（清PP效果自身体力为0时也可触发，所有特效boss无效）"
+                    },
+                    "MonsterId": 3954
+                },
+                "Exchange": {
+                    "ItemID": "1725352_1725353_1725354",
+                    "ProductID": "260237_260238_260239"
+                },
+                "QianDuan": {},
+                "ID": 7,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20230630 神谕进阶-枫眠",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "172 135 113 70 110 132",
+                        "NewRace": "182 140 113 70 113 132"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2985,
+                        "NewSeId": 6040
+                    },
+                    "spMove": {
+                        "SpMoves": "28380 28381 36744"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 36745
+                    },
+                    "AdvEffect": {
+                        "Id": 1756,
+                        "Des": "<font color='#FF7751'>首次登场时对方出战背包中每有1只系别中带龙系的精灵获得10层黯龙余恨，若其中存在龙神哈莫则获得层数翻倍，自身每有1层黯龙余恨造成的攻击伤害提升2%；\n每回合开始时会根据本场战斗当前总回合数刷新并获得相应层数的堕龙残怨，自身每有1层堕龙残怨攻击技能命中前附加20点固定伤害；</font>\n回合结束时若对手体力高于自身则恢复自身最大体力的1/3并造成等量百分比伤害，<font color='#FF7751'>当前黯龙余恨和堕龙残怨总层数＞30时取消触发条件，</font>\n若对手体力低于自身则下回合自身所有技能先制+1，<font color='#FF7751'>当前黯龙余恨和堕龙残怨总层数＞30时效果提升至+2\n（黯龙余恨和堕龙残怨下场保留，最多合计50层，所有效果boss无效）</font>"
+                    },
+                    "MonsterId": 3724
+                },
+                "Exchange": {
+                    "ItemID": "1725463_1725464_1725465",
+                    "ProductID": "260334_260335_260336"
+                },
+                "QianDuan": {},
+                "ID": 8,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20230908 神谕进阶-混沌哈肯萨",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "172 72 110 132 110 129",
+                        "NewRace": "175 72 115 134 115 129"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2978,
+                        "NewSeId": 6060
+                    },
+                    "spMove": {
+                        "SpMoves": "28455 28456 36878"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 36879
+                    },
+                    "AdvEffect": {
+                        "Id": 1769,
+                        "Des": "<font color='#FF7751'>自身天生免疫石化状态；自身护盾值高于对手时造成的攻击伤害提升50%，自身的护盾值低于对手时受到的攻击伤害、固定伤害、百分比伤害减少50%；回合结束时若自身体力高于对手则获得自身最大体力1/3的护盾，若低于对手则恢复最大体力1/3并造成等量百分比伤害；自身使用攻击技能后开启暗影护盾：2回合内闪避对手的物理攻击，使用属性技能后开启幽冥之盾：2回合内闪避对手的特殊攻击，开启任意一项后，若自身同时处于暗影护盾、幽冥之盾则对对手进行灵魂干涉：100%使对手疲惫（boss无效）</font>"
+                    },
+                    "MonsterId": 3716
+                },
+                "Exchange": {
+                    "ItemID": "1725518_1725519_1725520",
+                    "ProductID": "260378_260379_260380"
+                },
+                "QianDuan": {},
+                "ID": 9,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20231013 神谕进阶-该洛西斯",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "165 70 110 136 115 134",
+                        "NewRace": "167 70 112 138 115 138"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2969,
+                        "NewSeId": 6074
+                    },
+                    "spMove": {
+                        "SpMoves": "28496 28497 36943"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 36944
+                    },
+                    "AdvEffect": {
+                        "Id": 1781,
+                        "Des": "<font color='#FF7751'>自身先出手时吸取对手等同于自身速度值50%的体力</font>，后出手时下回合所有技能先制+2；<font color='#FF7751'>每回合开始时自身展开千灭雷翼：依次进行如下判断并在满足条件后获得后续效果，己方已有精灵阵亡时千灭雷翼的前n条效果无视触发条件，n为己方已阵亡的精灵数：\n1.若自身为满体力则本回合攻击必定打出致命一击\n2.若自身体力值低于对手则本回合使用技能时获得300点护盾\n3.若自身处于能力提升状态则本回合使用技能时自身全属性+1\n4.若对手处于异常状态则本回合使用技能时对手全属性-1\n5.若对手处于能力下降状态则本回合使用技能后使对手害怕</font>\n（boss无效）"
+                    },
+                    "MonsterId": 3705,
+                    "AdvType": 0
+                },
+                "Exchange": {
+                    "ItemID": "1725578_1725579_1725580",
+                    "ProductID": "260432_260433_260434"
+                },
+                "QianDuan": {},
+                "ID": 10,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20231124 神谕进阶-守护者艾里克",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "139 70 95 129 94 123",
+                        "NewRace": "168 70 114 138 114 136"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2358,
+                        "NewSeId": 6113
+                    },
+                    "spMove": {
+                        "SpMoves": "28630 28631 37167"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 37168
+                    },
+                    "AdvEffect": {
+                        "Id": 1819,
+                        "Des": "<font color='#FF7751'>自身出战时将己方上只精灵所处的能力状态转移给自身；回合开始时令对手随机3项能力等级-1，然后若双方所处的能力下降总项数不低于6，</font>则消除对手回合类效果并使对手害怕，<font color='#FF7751'>未触发则令对手沉默并解除双方能力下降状态，每解除一方自身抵挡1次对手的攻击</font>（boss无效）"
+                    },
+                    "MonsterId": 3156
+                },
+                "Exchange": {
+                    "ItemID": "1725816_1725817_1725818",
+                    "ProductID": "260637_260638_260639"
+                },
+                "QianDuan": {},
+                "ID": 11,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20240308 神谕进阶-路希菲尔德",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "170 70 110 130 110 125",
+                        "NewRace": "185 80 125 140 125 135"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2842,
+                        "NewSeId": 6118
+                    },
+                    "spMove": {
+                        "SpMoves": "28646 37193 37194"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 37195
+                    },
+                    "AdvEffect": {
+                        "Id": 1825,
+                        "Des": "<font color='#FF7751'>回合开始时，若本回合对手选择了攻击技能则对手随机1个技能PP值归零且当回合造成的攻击伤害无法超过自身最大体力的1/3，若对手选择了属性技能则自身当回合免疫受到的异常状态与能力下降状态，若对手未选择技能则自身获得1点灵茉之芯\n自身被击败后，使下只精灵获得芳馨祝福：获得500点护盾、500点护罩、500点临时体力上限且1回合免疫受到的异常状态，芳馨祝福的免疫效果下场保留，免疫效果结束后失去临时体力上限（boss有效）|灵茉之芯：每有1点自身造成的固定伤害、百分比伤害提升10%，且芳馨祝福免疫效果回合数+1，最高3点，下场保留\n（标注部分boss有效，其余无效）</font>"
+                    },
+                    "MonsterId": 3613,
+                    "AdvType": 1
+                },
+                "Exchange": {
+                    "ItemID": "1725852_1725852_1725853",
+                    "ProductID": "260670_260670_260671"
+                },
+                "QianDuan": {},
+                "ID": 12,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20240403 元素觉醒-芳馨茉蕊儿",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "172 70 114 138 111 135",
+                        "NewRace": "177 80 122 152 122 137"
+                    },
+                    "NewSe": {
+                        "OldSeId": 3320,
+                        "NewSeId": 6124
+                    },
+                    "spMove": {
+                        "SpMoves": "28668 37239 37240"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 37241
+                    },
+                    "AdvEffect": {
+                        "Id": 1834,
+                        "Des": "<font color='#FF7751'>回合开始时，若自身体力高于1/2则2回合内自身免疫并以害怕的形式反弹受到的异常状态；回合结束时，若自身体力低于1/2则令对手害怕，未触发则吸取对手最大体力1/3\n自身被击败后令对手害怕，对手每有1级晦暗之因随机1个技能PP值归0并20%诅咒；自身击败对手后自身每有一层晦暗之根对方下只登场精灵随机1个技能PP值归0\n晦暗之因：晦暗之因初始等级为1，最高5级，下场保留；晦暗之因每回合结束后吸取拥有者所有技能1点PP值并成长1级，达到5级时成熟不再成长，效果改为拥有者体力恢复效果减少25%，霍德尔在场时吸取的PP值将恢复至霍德尔\n晦暗之根：每有1层，自身攻击命中时附加80点真实伤害，最多5层，下场保留\n（boss无效）</font>"
+                    },
+                    "MonsterId": 3941,
+                    "AdvType": 1
+                },
+                "Exchange": {
+                    "ItemID": "1725879_1725879_1725880",
+                    "ProductID": "260688_260688_260689"
+                },
+                "QianDuan": {},
+                "ID": 13,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20240403 元素觉醒-混沌暗王霍德尔",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "165 135 109 70 111 130",
+                        "NewRace": "167 144 111 70 111 137"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2856,
+                        "NewSeId": 6155
+                    },
+                    "spMove": {
+                        "SpMoves": "37461 37462 37463"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 37464
+                    },
+                    "AdvEffect": {
+                        "Id": 1863,
+                        "Des": "<font color='#FF7751'>对手使用攻击技能时当回合自身受到的攻击伤害减少50%且50%闪避对手的攻击，自身体力低于对手时闪避率提升至80%，自身体力高于对手时减伤效果提升至60%\n自身使用技能时随机3项能力等级+1，若使用的技能为攻击技能则攻击、速度额外+1，若使用的技能为属性技能则对手下回合先制-2，若本回合使用的技能无效，则下回合使用技能时上述效果取消技能类型要求同时触发（boss无效）</font>"
+                    },
+                    "MonsterId": 3623
+                },
+                "Exchange": {
+                    "ItemID": "1726188_1726189_1726190",
+                    "ProductID": "260913_260914_260915"
+                },
+                "QianDuan": {},
+                "ID": 14,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20240809 神谕进阶-鬼面幽蝶",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "166 133 108 70 108 130",
+                        "NewRace": "166 142 112 70 112 138"
+                    },
+                    "NewSe": {
+                        "OldSeId": 0,
+                        "NewSeId": 0
+                    },
+                    "spMove": {
+                        "SpMoves": "28910 37691 37692"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 37693
+                    },
+                    "AdvEffect": {
+                        "Des": "自身额外有50%几率打出致命一击<font color='#FF7751'>且致命一击造成的攻击伤害提升30%</font>，自身处于能力提升状态时效果翻倍\n<font color='#FF7751'>自身使用技能后恢复自身最大体力的1/3并造成等量百分比伤害，若打出致命一击则改为吸取对手最大体力的1/3，打出致命一击时若体力低于对手则改为二者依次触发</font>（boss无效）",
+                        "Id": 1900
+                    },
+                    "MonsterId": 3729
+                },
+                "Exchange": {
+                    "ItemID": "1724856_1724857_1724858",
+                    "ProductID": "259804_259805_259806"
+                },
+                "QianDuan": {},
+                "ID": 15,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20241130 神谕进阶-xxxx",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "145 130 96 70 95 124",
+                        "NewRace": "174 133 112 70 112 134"
+                    },
+                    "NewSe": {
+                        "OldSeId": 0,
+                        "NewSeId": 0
+                    },
+                    "spMove": {
+                        "SpMoves": "37760 28947 28948"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 37761
+                    },
+                    "AdvEffect": {
+                        "Des": "对手攻击后50%令对手冰封，未触发则50%令对手麻痹，<font color='#FF7751'>回合开始时，若对手处于异常状态则令对手当回合先制效果失效且自身当回合造成的攻击伤害提升50%\n（boss无效）</font>",
+                        "Id": 1918
+                    },
+                    "MonsterId": 3171
+                },
+                "Exchange": {
+                    "ItemID": "1724856_1724857_1724858",
+                    "ProductID": "259804_259805_259806"
+                },
+                "QianDuan": {},
+                "ID": 16,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20250117 神谕进阶-xxxx",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "170 70 111 136 110 133",
+                        "NewRace": "182 80 120 153 120 135"
+                    },
+                    "NewSe": {
+                        "OldSeId": 0,
+                        "NewSeId": 0
+                    },
+                    "spMove": {
+                        "SpMoves": "28972 37806 37807"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 37808
+                    },
+                    "AdvEffect": {
+                        "Des": "登场时获得400点护盾，此护盾存在时自身受到的固定伤害、百分比伤害不超过此护盾的数值，之后自身处于护盾状态时所有技能先制+1且攻击技能使用时获得1道永恒之水，自身不处于护盾状态时所有技能不消耗PP值且攻击后为对手附加1滴蚀砚之泪<br>战斗阶段结束时，若当回合自身受到了攻击伤害则抵挡对手下1次攻击，若未受到攻击伤害则恢复自身最大体力的25%并造成恢复量等量百分比伤害，若场上存在永恒之水与蚀砚之泪则2回合内对手无法解除、反转能力下降状态<br>[永恒之水]: 每有1道自身造成的攻击伤害提升25%，最高8道，达到8道后本场战斗永恒之水的道数下场保留<br>[蚀砚之泪]: 达到3滴后自身护盾效果失效，达到4滴后自身的受到的攻击、攻击伤害无法被免疫与转化，最高4滴，下场保留，沧岚被击败时消失<br>（boss无效）",
+                        "Id": 1932
+                    },
+                    "MonsterId": 3740
+                },
+                "Exchange": {
+                    "ItemID": "1724856_1724857_1724858",
+                    "ProductID": "259804_259805_259806"
+                },
+                "QianDuan": {},
+                "ID": 17,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20250228 元素觉醒-xxxx",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "168 135 108 70 115 132",
+                        "NewRace": "168 137 110 70 115 135"
+                    },
+                    "NewSe": {
+                        "OldSeId": 0,
+                        "NewSeId": 0
+                    },
+                    "spMove": {
+                        "SpMoves": "29023 29024"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 37880
+                    },
+                    "AdvEffect": {
+                        "Des": "自身攻击命中对手后50%令对手害怕，未触发则吸取对手最大体力的1/3且下次害怕触发概率翻倍<br>对手技能命中自身时吸取对手能力提升状态，吸取成功则免疫下1次受到的攻击伤害<br>自身击败对手时令对方下只出战精灵害怕，未触发则吸取对方下只出战精灵所有能力1级，且害怕效果延续至对方的再下一只精灵（boss无效）",
+                        "Id": 1952
+                    },
+                    "MonsterId": 3766
+                },
+                "Exchange": {
+                    "ItemID": "1724856_1724857_1724858",
+                    "ProductID": "259804_259805_259806"
+                },
+                "QianDuan": {},
+                "ID": 18,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20250418 神谕进阶-xxxx",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "169 140 114 70 112 135",
+                        "NewRace": "175 146 125 80 125 139"
+                    },
+                    "NewSe": {
+                        "OldSeId": 0,
+                        "NewSeId": 0
+                    },
+                    "spMove": {
+                        "SpMoves": "37809 28973 37810"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 37811
+                    },
+                    "AdvEffect": {
+                        "Des": "自身受到的技能伤害额外减少60%，若以此法减少的伤害值低于200点则战斗阶段结束时双方受到等量的真实伤害，若高于200点且自身拥有寂杀之魄则令对手冻伤3回合<br>自身受到真实伤害时获得1道寂杀之魄；自身攻击技能无视对手的能力提升效果且攻击后若对手处于能力提升状态则100%令对手冰封，未触发则为对方附加200点肃霜之禁，若回合开始自身没有寂杀之魄则当回合上述效果改为由自身无视对手的能力提升效果且附加肃霜之禁无需冰封未触发<br>寂杀之魄：双方任意一方处于异常状态时自身无视对手不高于寂杀之魄道数的先制等级，若处于异常状态则效果提升至3倍；最高3层，下场保留<br>肃霜之禁：造成的技能伤害无法超过肃霜之禁的点数，死亡下场时消失，触发或自身主动下场后肃霜之禁减少200点，对手每有一道寂杀之魄减少效果下降50点；最高累计200点<br>（boss无效）",
+                        "Id": 1971
+                    },
+                    "MonsterId": 3886
+                },
+                "Exchange": {
+                    "ItemID": "1724856_1724857_1724858",
+                    "ProductID": "259804_259805_259806"
+                },
+                "QianDuan": {},
+                "ID": 19,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20250530 元素觉醒-xxxx",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "166 130 112 70 109 128",
+                        "NewRace": "168 130 141 80 141 130"
+                    },
+                    "NewSe": {
+                        "OldSeId": 0,
+                        "NewSeId": 0
+                    },
+                    "spMove": {
+                        "SpMoves": "38008 38009 29102"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 38010
+                    },
+                    "AdvEffect": {
+                        "Des": "自身护盾被击破时，附加对手最大体力1/3的百分比伤害且下次受到攻击的伤害额外减少50%；自身能力提升被消除、吸取时，自身获得1层封邪之嶂与400点护盾；自身每次受到高于自身最大体力1/3的固定伤害、百分比伤害后，恢复等同于护盾值的体力<br>回合开始时，若自身处于能力提升状态则为自身附加400点护盾，若自身不处于能力提升状态则当回合战斗阶段结束时吸取对手最大体力的1/3并获得等量护盾，最高叠加至400点；战斗阶段结束时，若自身的护盾值为400的正整数倍则为对手种下1只留魂之蛊<br>封邪之嶂：自身每次受到攻击后，若对手的护盾值高于自身则消除对手的护盾；每有1层己方其他精灵的护盾提升10%的承伤量且被无视时恢复在场精灵护盾值40%的体力；最高4层，下场保留<br>留魂之蛊：每有1只每回合限1次，自身恢复体力后留魂之蛊将汲取自身四十点体力，莱茵哈特在场时汲取的体力值将恢复至莱茵哈特，莱茵哈特阵亡时只数-1；最高4只，下场保留<br>（boss无效）",
+                        "Id": 1985
+                    },
+                    "MonsterId": 3516
+                },
+                "Exchange": {
+                    "ItemID": "1724856_1724857_1724858",
+                    "ProductID": "259804_259805_259806"
+                },
+                "QianDuan": {},
+                "ID": 20,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20250718 元素觉醒-xxxx",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "158 130 112 75 112 128",
+                        "NewRace": "183 141 124 80 124 138"
+                    },
+                    "NewSe": {
+                        "OldSeId": 0,
+                        "NewSeId": 0
+                    },
+                    "spMove": {
+                        "SpMoves": "29142 38075 38074"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 38076
+                    },
+                    "AdvEffect": {
+                        "Des": "自身选择了技能的回合开始时，若此技能与上次使用的技能类型相同则恢复所有技能1点PP值且当回合技能先制+1，若类型不同则恢复最大体力的1/3且当回合行动后附加恢复量的百分比伤害，若不存在上次技能则对手行动后自身获得1层逆命之威，否则自身行动后附加1层荒古之慑<br>登场时，己方精灵每存活1只获得100点护盾，每存活2只下1次攻击时消除对手回合类效果且必定打出致命一击，每存活3只下1次被致命一击命中时消除自身回合类效果并抵挡之，每阵亡1只本次在场造成的攻击伤害提升10%，每阵亡2只下1次被攻击时当回合受到的非真实伤害减半，每阵亡3只本次在场附加的荒古之慑层数+1，每满足2项下1次进入衍化类异常状态后结束之<br>逆命之威：自身的能力下降效果视为能力提升效果，提升等级至少为当前层数，最高5层，下场保留<br>荒古之慑：自身下场时每有1层下只出战精灵受到90点固定伤害，此伤害至少为其最大体力的9%，最高5道",
+                        "Id": 2005
+                    },
+                    "MonsterId": 3524
+                },
+                "Exchange": {
+                    "ItemID": "1724856_1724857_1724858",
+                    "ProductID": "259804_259805_259806"
+                },
+                "QianDuan": {},
+                "ID": 21,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "20250911 元素觉醒-xxxx",
+                "StatID": 0
+            }
+        ],
+        "BackMonsters": {
+            "Back": [
+                {
+                    "ID": 1,
+                    "IsBack": 0,
+                    "MonsterId": 3514,
+                    "TaskId": 1,
+                    "PerNeedCoinB": 350,
+                    "Weight": 50
+                },
+                {
+                    "ID": 2,
+                    "IsBack": 1,
+                    "MonsterId": 3704,
+                    "TaskId": 2,
+                    "PerNeedCoinB": 350,
+                    "Weight": 50,
+                    "desc": "1|2024/12/27/10"
+                },
+                {
+                    "ID": 3,
+                    "IsBack": 1,
+                    "MonsterId": 3506,
+                    "TaskId": 3,
+                    "PerNeedCoinB": 400,
+                    "Weight": 50,
+                    "desc": "2|2024/12/27/10"
+                },
+                {
+                    "ID": 4,
+                    "IsBack": 0,
+                    "MonsterId": 3388,
+                    "TaskId": 4,
+                    "PerNeedCoinB": 300,
+                    "Weight": 50
+                },
+                {
+                    "ID": 5,
+                    "IsBack": 0,
+                    "MonsterId": 3670,
+                    "TaskId": 5,
+                    "PerNeedCoinB": 400,
+                    "Weight": 50
+                },
+                {
+                    "ID": 6,
+                    "IsBack": 0,
+                    "MonsterId": 3507,
+                    "TaskId": 6,
+                    "PerNeedCoinB": 350,
+                    "Weight": 50
+                },
+                {
+                    "ID": 7,
+                    "IsBack": 0,
+                    "MonsterId": 3954,
+                    "TaskId": 7,
+                    "PerNeedCoinB": 300,
+                    "Weight": 50
+                },
+                {
+                    "ID": 8,
+                    "IsBack": 0,
+                    "MonsterId": 3724,
+                    "TaskId": 8,
+                    "PerNeedCoinB": 400,
+                    "Weight": 50
+                },
+                {
+                    "ID": 9,
+                    "IsBack": 0,
+                    "MonsterId": 3716,
+                    "TaskId": 9,
+                    "PerNeedCoinB": 350,
+                    "Weight": 50
+                },
+                {
+                    "ID": 10,
+                    "IsBack": 0,
+                    "MonsterId": 3705,
+                    "TaskId": 10,
+                    "PerNeedCoinB": 350,
+                    "Weight": 50
+                },
+                {
+                    "ID": 11,
+                    "IsBack": 1,
+                    "MonsterId": 3156,
+                    "TaskId": 11,
+                    "PerNeedCoinB": 350,
+                    "Weight": 50,
+                    "desc": "3|2024/12/27/10"
+                }
+            ],
+            "free_cnt": 2,
+            "assure_cnt": 3,
+            "refresh_base_cost": 50,
+            "refresh_add_cost": 10,
+            "refresh_max_cost": 100
+        }
+    }
+}
