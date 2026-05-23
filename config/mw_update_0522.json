@@ -1,0 +1,7 @@
+{
+    "code": 66,
+    "versionname": "0.0.62",
+    "content": "1.在数据操作区上方添加[设置数据源]功能\n2.在【SFC脱机】中初步实现因子功能\n提示：本次更新后原有缓存丢失（包括工具中的账号密码和图鉴中已经缓存的图片）是正常现象还请见谅\n如遇其它问题或有合理建议欢迎进群交流反馈，感谢捏~\n\n如果在线更新无效，请点击该链接前往浏览器下载安装：https://gcore.jsdelivr.net/gh/dawnnights/seerh5@main/MW%e6%89%8b%e5%86%8c0.0.62.Apk",
+    "time": 1779451233000,
+    "download": "https://gh-proxy.org/https://raw.githubusercontent.com/DawnNights/seerh5/refs/heads/main/MW%e6%89%8b%e5%86%8c0.0.62.Apk"
+}
