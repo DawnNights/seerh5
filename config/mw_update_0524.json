@@ -1,0 +1,7 @@
+{
+    "code": 67,
+    "versionname": "0.0.63",
+    "content": "1、修复【SFC脱机】中生成的【因子】脚本在仅存在精灵本体时会被错误跳过执行的问题。\n2、修复【SFC脱机】执行【战斗方案】时，精灵死亡后下一只登场精灵在首回合无法使用技能的问题。\n3、首次进入【战斗方案编辑器】时，将自动弹出使用说明。\n感谢群友【Liar小老虎】与【辰星】的问题反馈！如有其它问题或建议，欢迎进群交流反馈，感谢大家的支持~\n\n如果在线更新无效，请点击该链接前往浏览器下载安装：https://gcore.jsdelivr.net/gh/dawnnights/seerh5@main/MW%e6%89%8b%e5%86%8c0.0.63.Apk",
+    "time": 1779625123000,
+    "download": "https://gh-proxy.org/https://raw.githubusercontent.com/DawnNights/seerh5/refs/heads/main/MW%e6%89%8b%e5%86%8c0.0.63.Apk"
+}
