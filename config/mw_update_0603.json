@@ -1,0 +1,7 @@
+{
+    "code": 68,
+    "versionname": "0.0.64",
+    "content": "<p>1.修复 【因子】 脚本运行计次问题，如进行因子关卡第三次挑战失败后重新运行显示挑战已完成（需重新生成因子脚本）\n<p>2.修复执行【对战方案】借火时没有判断已有火焰，导致消耗大量星星的问题\n<p>以上问题感谢群友【石林居士】的反馈，如有其它问题和建议，欢迎进群交流反馈~\n\n如果在线更新无效，请点击该链接前往浏览器下载安装：https://gcore.jsdelivr.net/gh/dawnnights/seerh5@main/MW%e6%89%8b%e5%86%8c0.0.64.Apk",
+    "time": 1780475339000,
+    "download": "https://gh-proxy.org/https://raw.githubusercontent.com/DawnNights/seerh5/refs/heads/main/MW%e6%89%8b%e5%86%8c0.0.64.Apk"
+}
