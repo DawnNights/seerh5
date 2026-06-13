@@ -389,6 +389,16 @@
             "cost": 6,
             "bitbuf": 0,
             "choice": 34
+        },
+        {
+            "id": 40,
+            "type": "2",
+            "partnerName": "星罗拂沙",
+            "partnerNumber": 2,
+            "partnerMonsterId": "4354|4364",
+            "cost": 8,
+            "bitbuf": 0,
+            "choice": 35
         }
     ]
 }
