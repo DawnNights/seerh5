@@ -1,5 +1,0 @@
-特别强调：数据更新后图鉴页精灵魂印和技能详情显示代码是 <strong>正常现象</strong>，更新手册至 <strong>0.0.7</strong> 版本即可正常显示。请在手册设置出勾选 <strong>自动检测更新</strong>，或者点击下方网址前往浏览器安装。
-https://s.w12.top/s/mw_007
-
-如遇其他问题，欢迎反馈：
-• <strong>Q群号码</strong>：<a href="https://qm.qq.com/q/aZ7E0nbZ9C" target="_blank">231078576</a>
