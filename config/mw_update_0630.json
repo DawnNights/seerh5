@@ -1,0 +1,7 @@
+{
+    "code": 72,
+    "versionname": "0.0.72",
+    "content": "1. 修复刻印攻击类型筛选无效、魂印搜索界面代码未渲染等问题\n2. 重构手册数据更新逻辑，数据更新速度大幅度优化\nPS：本次重构可能会导致部分数据异常，如发现相关情况请向我反馈，谢谢\n\n\n如果在线更新无效，请点击该链接前往浏览器下载安装：https://gcore.jsdelivr.net/gh/dawnnights/seerh5@main/MW%e6%89%8b%e5%86%8c0.0.72.Apk",
+    "time": 1782785685000,
+    "download": "https://gh-proxy.org/https://raw.githubusercontent.com/DawnNights/seerh5/refs/heads/main/MW%e6%89%8b%e5%86%8c0.0.72.Apk"
+}
